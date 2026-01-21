@@ -68,5 +68,6 @@ O projeto contempla a **importação, organização e análise de dados** de ass
 ## Desafio DIO - Excel e Análise de Dados
 
 Este repositório foi desenvolvido como parte de um desafio prático voltado à análise e visualização de dados com Excel, focando em **produtividade, clareza visual e insights estratégicos na DIO**.
+Autor: Márcio Dias
 
 Autor: Márcio Dias
